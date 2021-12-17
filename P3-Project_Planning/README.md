@@ -10,10 +10,14 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+1. https://drive.google.com/file/d/1ZiwO1RmEnL2YwubFj1LUvvBRFC8mSnAm/view
+2. https://drive.google.com/file/d/1fuv6ib7GLfWZtY0O966uO5fWF_0CCE5L/view
+3. https://drive.google.com/file/d/1YjuXbFd-adhHQFKB49GE1X5kzbSl2ZIn/view
+
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/m86c3WC0/fleet-management-project-board
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Tgowen/KeyStoneProject
